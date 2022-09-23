@@ -81,3 +81,4 @@ Assets/PolybrushData*
 
 # Asset Bundles folder and .bin file
 *.bin
+!/git-flow-plus.config
